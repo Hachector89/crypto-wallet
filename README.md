@@ -8,4 +8,4 @@ Run `npm run dev` for a dev server. Navigate to `http://localhost:4000/`.
 
 ## Online app
 
-Go to `https://rock-paper-scissor-hector.web.app/`.
+Go to `https://crypto-wallet-hector.herokuapp.com/`.
